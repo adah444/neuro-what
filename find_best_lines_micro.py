@@ -11,7 +11,6 @@ from numpy import arange #, array, ones
 from pylab import plot, show
 from scipy import stats
 
-#def find_best_lines_micro():
 values = user_input()
 position = values
 
@@ -51,31 +50,13 @@ for next_anchor in range(index_anchor, -1, -1):
         group1_load.append(load[index])
     
     lengroup1 = len(group1_pos)
-#    print "group1_pos 1:"
-#    print group1_pos
-#    print "group1_load 1:"
-#    print group1_load
 
     for point in range(0, lengroup1 - least_numpts, 1):
-
-            
-#        print "point: "
-#        print point
-#        print "next_anchor"
-#        print next_anchor
 
         count = count + 1
         del group1_pos[0:count]
         del group1_load[0:count]
-        
-#        print "group1_pos del:"
-#        print group1_pos 
-#        print "group1_load del:"
-#        print group1_load
-#        else:
-#            break
 
-        
         if (len(group1_load) - least_numpts <= 0):# and (next_anchor == least_numpts - 1):
             group1_pos = []
             group1_load = []
@@ -86,10 +67,7 @@ for next_anchor in range(index_anchor, -1, -1):
         else:
             xi = arange(count + 1, index_anchor + 3 - anchor_num, 1)
             hold_count = count
-    #        xi = arange(1, len(group1_pos)+1, 1)
-#            print "xi"
-#            print xi
-            
+
             slope, intercept, r_value, p_value, std_err = stats.linregress(xi,group1_load)
             r_value1 = abs(r_value)
             slope1 = slope
@@ -127,9 +105,6 @@ else:
     for next_anchor2 in range(index_anchor2, -1, -1):
         count2 = 0
         anchor_num2 = anchor_num2 + 1
-#        if len(position) - index_anchor2 < least_numpts:
-#            print 'Only one linear regression required for the r value requirement'
-#            break
     
         if next_anchor2 == index_anchor2:
             r_value2 = 0
@@ -153,17 +128,11 @@ else:
         lengroup2 = len(group2_pos)
         
         for point2 in range(0, lengroup2 - least_numpts, 1):
-            
-#            if point2 != (next_anchor2 - least_numpts):
+
             count2 = count2 + 1
             del group2_pos[0:count2]
             del group2_load[0:count2]
-            
-#            print "group2_pos del:"
-#            print group2_pos 
-#            print "group2_load del:"
-#            print group2_load
-                
+
             if (len(group2_load)-least_numpts <=0 ): #and (next_anchor == least_numpts - 1):
                 group2_pos = []
                 group2_load = []
@@ -175,9 +144,6 @@ else:
             
                 xi2 = arange(count2 + 1, index_anchor2 + 3 - anchor_num2, 1)
                 hold_count2 = index_anchor2 + 3 - anchor_num2
-#                print "xi2"
-#                print xi2
-
                 
                 slope, intercept, r_value, p_value, std_err = stats.linregress(xi2, group2_load)
                 r_value2 = abs(r_value)
@@ -192,9 +158,6 @@ else:
                     print 'Anchor location: ', next_anchor2
                     print 'Number of points included: ', len(group2_pos)
                     line2 = slope2 * xi2 + intercept2 #regression line
-                    #plot(xi2, line2, 'r-', xi2, group2_load, 'o') #group1_pos
-#                    xi3 = arange(point2 - 2, 0, -1) 
-                    
                     
                     if position.index(group2_pos[0]) < index_anchor2:
                         xi3 = arange(0, position.index(group2_pos[0]) + 1)
