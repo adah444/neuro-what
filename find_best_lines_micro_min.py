@@ -17,14 +17,19 @@ position = values
 values = user_input()
 load = values
 
-min_load = min(load)
-index_anchor = load.index(min_load)
+minmax = raw_input ("Is the peak at a min or a max?: ")
+if minmax == 'max':
+    max_load = max(load)
+    index_anchor = load.index(max_load)
+else:  
+    min_load = min(load)
+    index_anchor = load.index(min_load)
+    
 anchor_num = 0
 anchor_num2 = 0
-count2 = 1
 
 desired_rval = 0.995 #desired r value
-least_numpts = 3 #at least this number of points in each linear regression
+least_numpts = 5 #at least this number of points in each linear regression
 
 for next_anchor in range(index_anchor, -1, -1):
     count = 0
@@ -183,5 +188,3 @@ else:
                 if r_value2 < desired_rval and  point2 == 0:
                     if next_anchor2 < least_numpts:
                         print "Please rerun the program with a lower r value"
-    
-            
