@@ -47,7 +47,7 @@ for iterate in range(0, len(position)):
             if r_value1 > desired_rval:
                 break
         
-            if next_anchor < least_numpts: #and r_value1 > desired_rval:
+            if next_anchor < least_numpts and iterate == len(position):
                 print 'Found all possible lines with the given r value'
                 break
             
