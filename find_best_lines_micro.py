@@ -29,11 +29,12 @@ anchor_num = 0
 line_num = 0
 all_lines = []
 
-desired_rval = 0.998 #desired r value
+desired_rsqval = 0.998 #desired r value
 least_numpts = 4 #at least this number of points in each linear regression
 
 for iterate in range(0, len(position)):
     if index_anchor > least_numpts - 1:
+        print 'index anchor', index_anchor
         stop = 0
         for next_anchor in range(index_anchor, -1, -1):
             count = 0
@@ -44,7 +45,7 @@ for iterate in range(0, len(position)):
             if next_anchor == index_anchor:
                 r_value1 = 0
                 
-            if r_value1 > desired_rval:
+            if r_value1**2 >= desired_rsqval:
                 break
         
             if next_anchor < least_numpts and iterate == len(position):
@@ -82,29 +83,37 @@ for iterate in range(0, len(position)):
                         group_load.append(load[index])
                         break
                 else:
-                    #xi = arange(position[position.index(group_pos[0])], position[position.index(group_pos[len(group_pos)-1])+1], (position[position.index(group_pos[len(group_pos)-1]) + 1]-position[position.index(group_pos[0])])/len(group_pos))
-                    xi = arange(position.index(group_pos[0]), position.index(group_pos[len(group_pos)-1]) + 1, 1)
+                    xi = arange(position[position.index(group_pos[0])], position[position.index(group_pos[len(group_pos)-1]) - 1], (position[position.index(group_pos[len(group_pos)-1]) -1]-position[position.index(group_pos[0])])/len(group_pos))
+                    #xi = arange(position.index(group_pos[0]), position.index(group_pos[len(group_pos)-1]) + 1, 1)
                     hold_count = count
         
-                    slope, intercept, r_value, p_value, std_err = stats.linregress(xi,group_load)
+                    slope, intercept, r_value, p_value, std_err = stats.linregress(group_pos,group_load)
+                    #group_load_m = map(lambda x: x*0.001, group_load) #all thegroup_load values in meters
+                    #slope, intercept, r_value, p_value, std_err = stats.linregress(group_pos,group_load_m)
                     r_value = abs(r_value)
+                    rsq_value = r_value ** 2
                     
-                    if r_value > desired_rval:
+                    if rsq_value >= desired_rsqval:
                         line_num = line_num + 1
                         if line_num == 1:
-                            print 'Line 1 (rightmost)'
+                            print 'Line 1 (closest to the peak)'
                         else:
                             print 'Line', line_num
-                        print 'r value: ', r_value
-                        print 'slope: ', slope
+                        print 'rsq value: ', rsq_value
+                        print 'slope: (N/mm)', slope
+                        print 'slope: (N/m)', slope*0.001
                         print 'intercept: ', intercept
                         print 'Anchor location: ', next_anchor
                         print 'Number of points included: ', len(group_pos)
                         line = slope * xi + intercept #regression line
-                        all_lines.append(xi)
+                        all_lines.append(group_pos)
                         all_lines.append(group_load)
                         all_lines.append(xi)
                         all_lines.append(line)
+#                        all_lines.append(xi)
+#                        all_lines.append(group_load)
+#                        all_lines.append(xi)
+#                        all_lines.append(line)
                         stop = 1
                         break
                     else:
@@ -114,7 +123,7 @@ for iterate in range(0, len(position)):
                             group_pos.append(position[index])
                             group_load.append(load[index])
                  
-                    if r_value < desired_rval and  point == lengroup - least_numpts:
+                    if rsq_value < desired_rsqval and  point == lengroup - least_numpts:
                         if next_anchor < least_numpts:
                             print "Please rerun the program with a lower r value"
         index_anchor = next_anchor + 1 -len(group_pos)
@@ -122,12 +131,13 @@ for iterate in range(0, len(position)):
 print 'Found all possible lines with the given r value'
 
 xi_all = arange(0, len(position), 1)
-plot(xi_all, load, 'o')
+plot(position, load, 'o')
         
 for thing in range(0, line_num * 4, 4):
     #xi_all = arange(0, len(position), 1)
     #plot(xi_all, load, 'o')
     plot(all_lines[thing+2], all_lines[thing+3],'r-') #all_lines[thing], all_lines[thing+1], 'o',
-ylim ([0, peak_load])
-xlim ([0, load.index(peak_load)])
+ylim ([min(load), max(load)])
+#xlim ([0, load.index(peak_load)])
+xlim ([min(position), max(position)])
 show()

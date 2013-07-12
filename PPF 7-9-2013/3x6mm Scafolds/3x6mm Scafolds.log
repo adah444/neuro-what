@@ -1,0 +1,542 @@
+7/9/2013,10:54:52 AM,3x6mm Scafolds,,60101,Log File Created
+7/9/2013,10:54:52 AM,3x6mm Scafolds,,60104,Software Version,1.3.226.0
+7/9/2013,10:54:52 AM,3x6mm Scafolds,,60105,Console Version,8.2.149
+7/9/2013,10:54:52 AM,3x6mm Scafolds,,60106,Controller Version,88.081500
+7/9/2013,10:54:52 AM,3x6mm Scafolds,,60107,User Name,Instron 8874 User
+7/9/2013,10:54:53 AM,3x6mm Scafolds,,60108,Computer Name,MMM-14
+7/9/2013,10:54:53 AM,3x6mm Scafolds,,60109,System Name,
+7/9/2013,10:54:53 AM,3x6mm Scafolds,,60110,Frame Serial Number (System ID),880R/8501C2488
+7/9/2013,11:08:11 AM,3x6mm Scafolds,Test1,60110,Test Started
+7/9/2013,11:09:35 AM,3x6mm Scafolds,Test1,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:09:35 AM,3x6mm Scafolds,Test1,60120,Total Time,80.6
+7/9/2013,11:09:35 AM,3x6mm Scafolds,Test1,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:09:35 AM,3x6mm Scafolds,Test1,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:09:35 AM,3x6mm Scafolds,Test1,60112,Test Finished
+7/9/2013,11:18:06 AM,3x6mm Scafolds,Test2,60110,Test Started
+7/9/2013,11:18:50 AM,3x6mm Scafolds,Test2,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:18:50 AM,3x6mm Scafolds,Test2,60120,Total Time,40.6
+7/9/2013,11:18:50 AM,3x6mm Scafolds,Test2,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:18:50 AM,3x6mm Scafolds,Test2,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:18:50 AM,3x6mm Scafolds,Test2,60112,Test Finished
+7/9/2013,11:30:40 AM,3x6mm Scafolds,Test3,60110,Test Started
+7/9/2013,11:31:24 AM,3x6mm Scafolds,Test3,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:31:24 AM,3x6mm Scafolds,Test3,60120,Total Time,40.8
+7/9/2013,11:31:24 AM,3x6mm Scafolds,Test3,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:31:24 AM,3x6mm Scafolds,Test3,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:31:24 AM,3x6mm Scafolds,Test3,60112,Test Finished
+7/9/2013,11:38:59 AM,3x6mm Scafolds,Test4,60110,Test Started
+7/9/2013,11:39:44 AM,3x6mm Scafolds,Test4,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:39:44 AM,3x6mm Scafolds,Test4,60120,Total Time,40.6
+7/9/2013,11:39:44 AM,3x6mm Scafolds,Test4,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:39:44 AM,3x6mm Scafolds,Test4,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:39:44 AM,3x6mm Scafolds,Test4,60112,Test Finished
+7/9/2013,11:41:45 AM,3x6mm Scafolds,Test5,60110,Test Started
+7/9/2013,11:42:30 AM,3x6mm Scafolds,Test5,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:42:30 AM,3x6mm Scafolds,Test5,60120,Total Time,40.6
+7/9/2013,11:42:30 AM,3x6mm Scafolds,Test5,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:42:30 AM,3x6mm Scafolds,Test5,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:42:30 AM,3x6mm Scafolds,Test5,60112,Test Finished
+7/9/2013,11:44:24 AM,3x6mm Scafolds,Test6,60110,Test Started
+7/9/2013,11:45:08 AM,3x6mm Scafolds,Test6,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:45:08 AM,3x6mm Scafolds,Test6,60120,Total Time,40.8
+7/9/2013,11:45:08 AM,3x6mm Scafolds,Test6,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:45:08 AM,3x6mm Scafolds,Test6,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:45:08 AM,3x6mm Scafolds,Test6,60112,Test Finished
+7/9/2013,11:47:41 AM,3x6mm Scafolds,Test7,60110,Test Started
+7/9/2013,11:48:26 AM,3x6mm Scafolds,Test7,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:48:26 AM,3x6mm Scafolds,Test7,60120,Total Time,40.6
+7/9/2013,11:48:26 AM,3x6mm Scafolds,Test7,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:48:26 AM,3x6mm Scafolds,Test7,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:48:26 AM,3x6mm Scafolds,Test7,60112,Test Finished
+7/9/2013,11:50:38 AM,3x6mm Scafolds,Test8,60110,Test Started
+7/9/2013,11:51:22 AM,3x6mm Scafolds,Test8,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:51:22 AM,3x6mm Scafolds,Test8,60120,Total Time,40.6
+7/9/2013,11:51:22 AM,3x6mm Scafolds,Test8,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:51:22 AM,3x6mm Scafolds,Test8,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:51:22 AM,3x6mm Scafolds,Test8,60112,Test Finished
+7/9/2013,11:53:15 AM,3x6mm Scafolds,Test9,60110,Test Started
+7/9/2013,11:53:59 AM,3x6mm Scafolds,Test9,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:54:00 AM,3x6mm Scafolds,Test9,60120,Total Time,40.8
+7/9/2013,11:54:00 AM,3x6mm Scafolds,Test9,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:54:00 AM,3x6mm Scafolds,Test9,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:54:00 AM,3x6mm Scafolds,Test9,60112,Test Finished
+7/9/2013,11:55:46 AM,3x6mm Scafolds,Test10,60110,Test Started
+7/9/2013,11:56:30 AM,3x6mm Scafolds,Test10,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:56:30 AM,3x6mm Scafolds,Test10,60120,Total Time,40.8
+7/9/2013,11:56:30 AM,3x6mm Scafolds,Test10,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:56:30 AM,3x6mm Scafolds,Test10,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:56:30 AM,3x6mm Scafolds,Test10,60112,Test Finished
+7/9/2013,11:57:59 AM,3x6mm Scafolds,Test11,60110,Test Started
+7/9/2013,11:58:43 AM,3x6mm Scafolds,Test11,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,11:58:43 AM,3x6mm Scafolds,Test11,60120,Total Time,40.6
+7/9/2013,11:58:43 AM,3x6mm Scafolds,Test11,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,11:58:43 AM,3x6mm Scafolds,Test11,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,11:58:43 AM,3x6mm Scafolds,Test11,60112,Test Finished
+7/9/2013,12:00:25 PM,3x6mm Scafolds,Test12,60110,Test Started
+7/9/2013,12:01:09 PM,3x6mm Scafolds,Test12,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:01:09 PM,3x6mm Scafolds,Test12,60120,Total Time,40.6
+7/9/2013,12:01:09 PM,3x6mm Scafolds,Test12,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:01:09 PM,3x6mm Scafolds,Test12,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:01:09 PM,3x6mm Scafolds,Test12,60112,Test Finished
+7/9/2013,12:04:01 PM,3x6mm Scafolds,Test13,60110,Test Started
+7/9/2013,12:04:45 PM,3x6mm Scafolds,Test13,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:04:45 PM,3x6mm Scafolds,Test13,60120,Total Time,40.8
+7/9/2013,12:04:45 PM,3x6mm Scafolds,Test13,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:04:45 PM,3x6mm Scafolds,Test13,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:04:45 PM,3x6mm Scafolds,Test13,60112,Test Finished
+7/9/2013,12:06:31 PM,3x6mm Scafolds,Test14,60110,Test Started
+7/9/2013,12:07:15 PM,3x6mm Scafolds,Test14,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:07:15 PM,3x6mm Scafolds,Test14,60120,Total Time,40.6
+7/9/2013,12:07:15 PM,3x6mm Scafolds,Test14,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:07:15 PM,3x6mm Scafolds,Test14,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:07:15 PM,3x6mm Scafolds,Test14,60112,Test Finished
+7/9/2013,12:09:00 PM,3x6mm Scafolds,Test15,60110,Test Started
+7/9/2013,12:09:45 PM,3x6mm Scafolds,Test15,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:09:45 PM,3x6mm Scafolds,Test15,60120,Total Time,40.6
+7/9/2013,12:09:45 PM,3x6mm Scafolds,Test15,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:09:45 PM,3x6mm Scafolds,Test15,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:09:45 PM,3x6mm Scafolds,Test15,60112,Test Finished
+7/9/2013,12:11:53 PM,3x6mm Scafolds,Test16,60110,Test Started
+7/9/2013,12:12:37 PM,3x6mm Scafolds,Test16,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:12:37 PM,3x6mm Scafolds,Test16,60120,Total Time,40.6
+7/9/2013,12:12:37 PM,3x6mm Scafolds,Test16,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:12:37 PM,3x6mm Scafolds,Test16,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:12:37 PM,3x6mm Scafolds,Test16,60112,Test Finished
+7/9/2013,12:14:38 PM,3x6mm Scafolds,Test17,60110,Test Started
+7/9/2013,12:15:22 PM,3x6mm Scafolds,Test17,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:15:22 PM,3x6mm Scafolds,Test17,60120,Total Time,40.8
+7/9/2013,12:15:22 PM,3x6mm Scafolds,Test17,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:15:22 PM,3x6mm Scafolds,Test17,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:15:22 PM,3x6mm Scafolds,Test17,60112,Test Finished
+7/9/2013,12:17:20 PM,3x6mm Scafolds,Test18,60110,Test Started
+7/9/2013,12:18:03 PM,3x6mm Scafolds,Test18,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:18:03 PM,3x6mm Scafolds,Test18,60120,Total Time,40.6
+7/9/2013,12:18:03 PM,3x6mm Scafolds,Test18,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:18:04 PM,3x6mm Scafolds,Test18,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:18:04 PM,3x6mm Scafolds,Test18,60112,Test Finished
+7/9/2013,12:19:48 PM,3x6mm Scafolds,Test19,60110,Test Started
+7/9/2013,12:20:33 PM,3x6mm Scafolds,Test19,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:20:33 PM,3x6mm Scafolds,Test19,60120,Total Time,40.6
+7/9/2013,12:20:33 PM,3x6mm Scafolds,Test19,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:20:33 PM,3x6mm Scafolds,Test19,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:20:33 PM,3x6mm Scafolds,Test19,60112,Test Finished
+7/9/2013,12:22:15 PM,3x6mm Scafolds,Test20,60110,Test Started
+7/9/2013,12:22:59 PM,3x6mm Scafolds,Test20,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:22:59 PM,3x6mm Scafolds,Test20,60120,Total Time,40.8
+7/9/2013,12:22:59 PM,3x6mm Scafolds,Test20,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:22:59 PM,3x6mm Scafolds,Test20,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:22:59 PM,3x6mm Scafolds,Test20,60112,Test Finished
+7/9/2013,12:25:04 PM,3x6mm Scafolds,Test21,60110,Test Started
+7/9/2013,12:25:49 PM,3x6mm Scafolds,Test21,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:25:49 PM,3x6mm Scafolds,Test21,60120,Total Time,40.8
+7/9/2013,12:25:49 PM,3x6mm Scafolds,Test21,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:25:49 PM,3x6mm Scafolds,Test21,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:25:49 PM,3x6mm Scafolds,Test21,60112,Test Finished
+7/9/2013,12:27:30 PM,3x6mm Scafolds,Test22,60110,Test Started
+7/9/2013,12:28:14 PM,3x6mm Scafolds,Test22,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:28:14 PM,3x6mm Scafolds,Test22,60120,Total Time,40.6
+7/9/2013,12:28:14 PM,3x6mm Scafolds,Test22,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:28:14 PM,3x6mm Scafolds,Test22,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:28:14 PM,3x6mm Scafolds,Test22,60112,Test Finished
+7/9/2013,12:30:15 PM,3x6mm Scafolds,Test23,60110,Test Started
+7/9/2013,12:30:59 PM,3x6mm Scafolds,Test23,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:30:59 PM,3x6mm Scafolds,Test23,60120,Total Time,40.6
+7/9/2013,12:30:59 PM,3x6mm Scafolds,Test23,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:30:59 PM,3x6mm Scafolds,Test23,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:30:59 PM,3x6mm Scafolds,Test23,60112,Test Finished
+7/9/2013,12:32:33 PM,3x6mm Scafolds,Test24,60110,Test Started
+7/9/2013,12:33:17 PM,3x6mm Scafolds,Test24,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:33:17 PM,3x6mm Scafolds,Test24,60120,Total Time,40.8
+7/9/2013,12:33:17 PM,3x6mm Scafolds,Test24,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:33:17 PM,3x6mm Scafolds,Test24,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:33:17 PM,3x6mm Scafolds,Test24,60112,Test Finished
+7/9/2013,12:34:48 PM,3x6mm Scafolds,Test25,60110,Test Started
+7/9/2013,12:35:32 PM,3x6mm Scafolds,Test25,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:35:32 PM,3x6mm Scafolds,Test25,60120,Total Time,40.8
+7/9/2013,12:35:32 PM,3x6mm Scafolds,Test25,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:35:32 PM,3x6mm Scafolds,Test25,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:35:32 PM,3x6mm Scafolds,Test25,60112,Test Finished
+7/9/2013,12:36:58 PM,3x6mm Scafolds,Test26,60110,Test Started
+7/9/2013,12:37:42 PM,3x6mm Scafolds,Test26,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:37:42 PM,3x6mm Scafolds,Test26,60120,Total Time,40.8
+7/9/2013,12:37:42 PM,3x6mm Scafolds,Test26,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:37:42 PM,3x6mm Scafolds,Test26,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:37:42 PM,3x6mm Scafolds,Test26,60112,Test Finished
+7/9/2013,12:39:14 PM,3x6mm Scafolds,Test27,60110,Test Started
+7/9/2013,12:39:58 PM,3x6mm Scafolds,Test27,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:39:58 PM,3x6mm Scafolds,Test27,60120,Total Time,40.6
+7/9/2013,12:39:58 PM,3x6mm Scafolds,Test27,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:39:58 PM,3x6mm Scafolds,Test27,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:39:58 PM,3x6mm Scafolds,Test27,60112,Test Finished
+7/9/2013,12:41:30 PM,3x6mm Scafolds,Test28,60110,Test Started
+7/9/2013,12:42:14 PM,3x6mm Scafolds,Test28,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:42:14 PM,3x6mm Scafolds,Test28,60120,Total Time,40.8
+7/9/2013,12:42:14 PM,3x6mm Scafolds,Test28,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:42:14 PM,3x6mm Scafolds,Test28,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:42:14 PM,3x6mm Scafolds,Test28,60112,Test Finished
+7/9/2013,12:44:17 PM,3x6mm Scafolds,Test29,60110,Test Started
+7/9/2013,12:45:01 PM,3x6mm Scafolds,Test29,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:45:01 PM,3x6mm Scafolds,Test29,60120,Total Time,40.8
+7/9/2013,12:45:01 PM,3x6mm Scafolds,Test29,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:45:01 PM,3x6mm Scafolds,Test29,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:45:01 PM,3x6mm Scafolds,Test29,60112,Test Finished
+7/9/2013,12:46:25 PM,3x6mm Scafolds,Test30,60110,Test Started
+7/9/2013,12:47:09 PM,3x6mm Scafolds,Test30,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:47:09 PM,3x6mm Scafolds,Test30,60120,Total Time,40.8
+7/9/2013,12:47:09 PM,3x6mm Scafolds,Test30,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:47:09 PM,3x6mm Scafolds,Test30,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:47:09 PM,3x6mm Scafolds,Test30,60112,Test Finished
+7/9/2013,12:48:37 PM,3x6mm Scafolds,Test31,60110,Test Started
+7/9/2013,12:49:21 PM,3x6mm Scafolds,Test31,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:49:21 PM,3x6mm Scafolds,Test31,60120,Total Time,40.8
+7/9/2013,12:49:21 PM,3x6mm Scafolds,Test31,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:49:21 PM,3x6mm Scafolds,Test31,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:49:21 PM,3x6mm Scafolds,Test31,60112,Test Finished
+7/9/2013,12:50:26 PM,3x6mm Scafolds,Test32,60110,Test Started
+7/9/2013,12:51:10 PM,3x6mm Scafolds,Test32,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:51:10 PM,3x6mm Scafolds,Test32,60120,Total Time,40.8
+7/9/2013,12:51:10 PM,3x6mm Scafolds,Test32,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:51:10 PM,3x6mm Scafolds,Test32,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:51:10 PM,3x6mm Scafolds,Test32,60112,Test Finished
+7/9/2013,12:52:33 PM,3x6mm Scafolds,Test33,60110,Test Started
+7/9/2013,12:53:17 PM,3x6mm Scafolds,Test33,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:53:17 PM,3x6mm Scafolds,Test33,60120,Total Time,40.8
+7/9/2013,12:53:17 PM,3x6mm Scafolds,Test33,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:53:17 PM,3x6mm Scafolds,Test33,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:53:17 PM,3x6mm Scafolds,Test33,60112,Test Finished
+7/9/2013,12:54:43 PM,3x6mm Scafolds,Test34,60110,Test Started
+7/9/2013,12:55:28 PM,3x6mm Scafolds,Test34,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:55:28 PM,3x6mm Scafolds,Test34,60120,Total Time,40.6
+7/9/2013,12:55:28 PM,3x6mm Scafolds,Test34,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:55:28 PM,3x6mm Scafolds,Test34,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:55:28 PM,3x6mm Scafolds,Test34,60112,Test Finished
+7/9/2013,12:57:09 PM,3x6mm Scafolds,Test35,60110,Test Started
+7/9/2013,12:57:53 PM,3x6mm Scafolds,Test35,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:57:53 PM,3x6mm Scafolds,Test35,60120,Total Time,40.6
+7/9/2013,12:57:53 PM,3x6mm Scafolds,Test35,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:57:53 PM,3x6mm Scafolds,Test35,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:57:53 PM,3x6mm Scafolds,Test35,60112,Test Finished
+7/9/2013,12:59:11 PM,3x6mm Scafolds,Test36,60110,Test Started
+7/9/2013,12:59:55 PM,3x6mm Scafolds,Test36,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,12:59:55 PM,3x6mm Scafolds,Test36,60120,Total Time,40.6
+7/9/2013,12:59:55 PM,3x6mm Scafolds,Test36,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,12:59:55 PM,3x6mm Scafolds,Test36,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,12:59:55 PM,3x6mm Scafolds,Test36,60112,Test Finished
+7/9/2013,1:01:01 PM,3x6mm Scafolds,Test37,60110,Test Started
+7/9/2013,1:01:45 PM,3x6mm Scafolds,Test37,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:01:45 PM,3x6mm Scafolds,Test37,60120,Total Time,40.6
+7/9/2013,1:01:45 PM,3x6mm Scafolds,Test37,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:01:45 PM,3x6mm Scafolds,Test37,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:01:45 PM,3x6mm Scafolds,Test37,60112,Test Finished
+7/9/2013,1:02:59 PM,3x6mm Scafolds,Test38,60110,Test Started
+7/9/2013,1:03:44 PM,3x6mm Scafolds,Test38,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:03:44 PM,3x6mm Scafolds,Test38,60120,Total Time,40.8
+7/9/2013,1:03:44 PM,3x6mm Scafolds,Test38,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:03:44 PM,3x6mm Scafolds,Test38,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:03:44 PM,3x6mm Scafolds,Test38,60112,Test Finished
+7/9/2013,1:05:13 PM,3x6mm Scafolds,Test39,60110,Test Started
+7/9/2013,1:05:57 PM,3x6mm Scafolds,Test39,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:05:57 PM,3x6mm Scafolds,Test39,60120,Total Time,40.6
+7/9/2013,1:05:57 PM,3x6mm Scafolds,Test39,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:05:57 PM,3x6mm Scafolds,Test39,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:05:57 PM,3x6mm Scafolds,Test39,60112,Test Finished
+7/9/2013,1:08:03 PM,3x6mm Scafolds,Test40,60110,Test Started
+7/9/2013,1:08:47 PM,3x6mm Scafolds,Test40,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:08:47 PM,3x6mm Scafolds,Test40,60120,Total Time,40.6
+7/9/2013,1:08:47 PM,3x6mm Scafolds,Test40,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:08:47 PM,3x6mm Scafolds,Test40,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:08:47 PM,3x6mm Scafolds,Test40,60112,Test Finished
+7/9/2013,1:10:05 PM,3x6mm Scafolds,Test41,60110,Test Started
+7/9/2013,1:10:50 PM,3x6mm Scafolds,Test41,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:10:50 PM,3x6mm Scafolds,Test41,60120,Total Time,40.8
+7/9/2013,1:10:50 PM,3x6mm Scafolds,Test41,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:10:50 PM,3x6mm Scafolds,Test41,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:10:50 PM,3x6mm Scafolds,Test41,60112,Test Finished
+7/9/2013,1:12:13 PM,3x6mm Scafolds,Test42,60110,Test Started
+7/9/2013,1:12:57 PM,3x6mm Scafolds,Test42,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:12:57 PM,3x6mm Scafolds,Test42,60120,Total Time,40.6
+7/9/2013,1:12:57 PM,3x6mm Scafolds,Test42,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:12:57 PM,3x6mm Scafolds,Test42,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:12:57 PM,3x6mm Scafolds,Test42,60112,Test Finished
+7/9/2013,1:14:47 PM,3x6mm Scafolds,Test43,60110,Test Started
+7/9/2013,1:15:31 PM,3x6mm Scafolds,Test43,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:15:31 PM,3x6mm Scafolds,Test43,60120,Total Time,40.6
+7/9/2013,1:15:31 PM,3x6mm Scafolds,Test43,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:15:31 PM,3x6mm Scafolds,Test43,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:15:31 PM,3x6mm Scafolds,Test43,60112,Test Finished
+7/9/2013,1:17:28 PM,3x6mm Scafolds,Test44,60110,Test Started
+7/9/2013,1:18:12 PM,3x6mm Scafolds,Test44,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:18:12 PM,3x6mm Scafolds,Test44,60120,Total Time,40.6
+7/9/2013,1:18:12 PM,3x6mm Scafolds,Test44,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:18:12 PM,3x6mm Scafolds,Test44,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:18:12 PM,3x6mm Scafolds,Test44,60112,Test Finished
+7/9/2013,1:19:45 PM,3x6mm Scafolds,Test45,60110,Test Started
+7/9/2013,1:20:29 PM,3x6mm Scafolds,Test45,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:20:29 PM,3x6mm Scafolds,Test45,60120,Total Time,40.6
+7/9/2013,1:20:29 PM,3x6mm Scafolds,Test45,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:20:29 PM,3x6mm Scafolds,Test45,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:20:29 PM,3x6mm Scafolds,Test45,60112,Test Finished
+7/9/2013,1:22:26 PM,3x6mm Scafolds,Test46,60110,Test Started
+7/9/2013,1:23:10 PM,3x6mm Scafolds,Test46,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:23:10 PM,3x6mm Scafolds,Test46,60120,Total Time,40.6
+7/9/2013,1:23:10 PM,3x6mm Scafolds,Test46,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:23:10 PM,3x6mm Scafolds,Test46,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:23:10 PM,3x6mm Scafolds,Test46,60112,Test Finished
+7/9/2013,1:24:14 PM,3x6mm Scafolds,Test47,60110,Test Started
+7/9/2013,1:24:58 PM,3x6mm Scafolds,Test47,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:24:58 PM,3x6mm Scafolds,Test47,60120,Total Time,40.6
+7/9/2013,1:24:58 PM,3x6mm Scafolds,Test47,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:24:58 PM,3x6mm Scafolds,Test47,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:24:58 PM,3x6mm Scafolds,Test47,60112,Test Finished
+7/9/2013,1:26:34 PM,3x6mm Scafolds,Test48,60110,Test Started
+7/9/2013,1:27:19 PM,3x6mm Scafolds,Test48,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:27:19 PM,3x6mm Scafolds,Test48,60120,Total Time,40.6
+7/9/2013,1:27:19 PM,3x6mm Scafolds,Test48,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:27:19 PM,3x6mm Scafolds,Test48,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:27:19 PM,3x6mm Scafolds,Test48,60112,Test Finished
+7/9/2013,1:28:27 PM,3x6mm Scafolds,Test49,60110,Test Started
+7/9/2013,1:29:11 PM,3x6mm Scafolds,Test49,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:29:11 PM,3x6mm Scafolds,Test49,60120,Total Time,40.6
+7/9/2013,1:29:11 PM,3x6mm Scafolds,Test49,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:29:11 PM,3x6mm Scafolds,Test49,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:29:11 PM,3x6mm Scafolds,Test49,60112,Test Finished
+7/9/2013,1:30:47 PM,3x6mm Scafolds,Test50,60110,Test Started
+7/9/2013,1:31:31 PM,3x6mm Scafolds,Test50,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:31:31 PM,3x6mm Scafolds,Test50,60120,Total Time,40.8
+7/9/2013,1:31:31 PM,3x6mm Scafolds,Test50,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:31:31 PM,3x6mm Scafolds,Test50,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:31:31 PM,3x6mm Scafolds,Test50,60112,Test Finished
+7/9/2013,1:34:01 PM,3x6mm Scafolds,Test51,60110,Test Started
+7/9/2013,1:34:45 PM,3x6mm Scafolds,Test51,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,1:34:45 PM,3x6mm Scafolds,Test51,60120,Total Time,40.6
+7/9/2013,1:34:45 PM,3x6mm Scafolds,Test51,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,1:34:45 PM,3x6mm Scafolds,Test51,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,1:34:45 PM,3x6mm Scafolds,Test51,60112,Test Finished
+7/9/2013,1:59:32 PM,3x6mm Scafolds,Test52,60110,Test Started
+7/9/2013,2:00:16 PM,3x6mm Scafolds,Test52,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:00:16 PM,3x6mm Scafolds,Test52,60120,Total Time,40.6
+7/9/2013,2:00:16 PM,3x6mm Scafolds,Test52,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:00:16 PM,3x6mm Scafolds,Test52,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:00:16 PM,3x6mm Scafolds,Test52,60112,Test Finished
+7/9/2013,2:02:14 PM,3x6mm Scafolds,Test53,60110,Test Started
+7/9/2013,2:02:58 PM,3x6mm Scafolds,Test53,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:02:58 PM,3x6mm Scafolds,Test53,60120,Total Time,40.6
+7/9/2013,2:02:58 PM,3x6mm Scafolds,Test53,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:02:58 PM,3x6mm Scafolds,Test53,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:02:58 PM,3x6mm Scafolds,Test53,60112,Test Finished
+7/9/2013,2:07:28 PM,3x6mm Scafolds,Test54,60110,Test Started
+7/9/2013,2:08:13 PM,3x6mm Scafolds,Test54,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:08:13 PM,3x6mm Scafolds,Test54,60120,Total Time,40.8
+7/9/2013,2:08:13 PM,3x6mm Scafolds,Test54,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:08:13 PM,3x6mm Scafolds,Test54,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:08:13 PM,3x6mm Scafolds,Test54,60112,Test Finished
+7/9/2013,2:09:28 PM,3x6mm Scafolds,Test55,60110,Test Started
+7/9/2013,2:10:12 PM,3x6mm Scafolds,Test55,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:10:12 PM,3x6mm Scafolds,Test55,60120,Total Time,40.8
+7/9/2013,2:10:12 PM,3x6mm Scafolds,Test55,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:10:12 PM,3x6mm Scafolds,Test55,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:10:12 PM,3x6mm Scafolds,Test55,60112,Test Finished
+7/9/2013,2:11:49 PM,3x6mm Scafolds,Test56,60110,Test Started
+7/9/2013,2:12:33 PM,3x6mm Scafolds,Test56,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:12:33 PM,3x6mm Scafolds,Test56,60120,Total Time,40.8
+7/9/2013,2:12:33 PM,3x6mm Scafolds,Test56,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:12:33 PM,3x6mm Scafolds,Test56,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:12:33 PM,3x6mm Scafolds,Test56,60112,Test Finished
+7/9/2013,2:13:48 PM,3x6mm Scafolds,Test57,60110,Test Started
+7/9/2013,2:14:32 PM,3x6mm Scafolds,Test57,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:14:32 PM,3x6mm Scafolds,Test57,60120,Total Time,40.8
+7/9/2013,2:14:32 PM,3x6mm Scafolds,Test57,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:14:32 PM,3x6mm Scafolds,Test57,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:14:32 PM,3x6mm Scafolds,Test57,60112,Test Finished
+7/9/2013,2:16:35 PM,3x6mm Scafolds,Test58,60110,Test Started
+7/9/2013,2:17:19 PM,3x6mm Scafolds,Test58,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:17:19 PM,3x6mm Scafolds,Test58,60120,Total Time,40.6
+7/9/2013,2:17:19 PM,3x6mm Scafolds,Test58,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:17:19 PM,3x6mm Scafolds,Test58,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:17:19 PM,3x6mm Scafolds,Test58,60112,Test Finished
+7/9/2013,2:18:41 PM,3x6mm Scafolds,Test59,60110,Test Started
+7/9/2013,2:19:25 PM,3x6mm Scafolds,Test59,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:19:25 PM,3x6mm Scafolds,Test59,60120,Total Time,40.6
+7/9/2013,2:19:25 PM,3x6mm Scafolds,Test59,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:19:25 PM,3x6mm Scafolds,Test59,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:19:25 PM,3x6mm Scafolds,Test59,60112,Test Finished
+7/9/2013,2:20:55 PM,3x6mm Scafolds,Test60,60110,Test Started
+7/9/2013,2:21:39 PM,3x6mm Scafolds,Test60,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:21:39 PM,3x6mm Scafolds,Test60,60120,Total Time,40.6
+7/9/2013,2:21:39 PM,3x6mm Scafolds,Test60,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:21:39 PM,3x6mm Scafolds,Test60,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:21:39 PM,3x6mm Scafolds,Test60,60112,Test Finished
+7/9/2013,2:22:45 PM,3x6mm Scafolds,Test61,60110,Test Started
+7/9/2013,2:23:29 PM,3x6mm Scafolds,Test61,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:23:29 PM,3x6mm Scafolds,Test61,60120,Total Time,40.6
+7/9/2013,2:23:29 PM,3x6mm Scafolds,Test61,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:23:29 PM,3x6mm Scafolds,Test61,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:23:29 PM,3x6mm Scafolds,Test61,60112,Test Finished
+7/9/2013,2:25:08 PM,3x6mm Scafolds,Test62,60110,Test Started
+7/9/2013,2:25:52 PM,3x6mm Scafolds,Test62,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:25:52 PM,3x6mm Scafolds,Test62,60120,Total Time,40.6
+7/9/2013,2:25:52 PM,3x6mm Scafolds,Test62,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:25:52 PM,3x6mm Scafolds,Test62,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:25:52 PM,3x6mm Scafolds,Test62,60112,Test Finished
+7/9/2013,2:27:15 PM,3x6mm Scafolds,Test63,60110,Test Started
+7/9/2013,2:27:59 PM,3x6mm Scafolds,Test63,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:27:59 PM,3x6mm Scafolds,Test63,60120,Total Time,40.8
+7/9/2013,2:27:59 PM,3x6mm Scafolds,Test63,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:27:59 PM,3x6mm Scafolds,Test63,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:27:59 PM,3x6mm Scafolds,Test63,60112,Test Finished
+7/9/2013,2:50:27 PM,3x6mm Scafolds,Test64,60110,Test Started
+7/9/2013,2:51:51 PM,3x6mm Scafolds,Test64,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:51:51 PM,3x6mm Scafolds,Test64,60120,Total Time,80.8
+7/9/2013,2:51:51 PM,3x6mm Scafolds,Test64,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:51:51 PM,3x6mm Scafolds,Test64,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:51:51 PM,3x6mm Scafolds,Test64,60112,Test Finished
+7/9/2013,2:53:15 PM,3x6mm Scafolds,Test65,60110,Test Started
+7/9/2013,2:54:39 PM,3x6mm Scafolds,Test65,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:54:39 PM,3x6mm Scafolds,Test65,60120,Total Time,80.6
+7/9/2013,2:54:39 PM,3x6mm Scafolds,Test65,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:54:39 PM,3x6mm Scafolds,Test65,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:54:39 PM,3x6mm Scafolds,Test65,60112,Test Finished
+7/9/2013,2:56:49 PM,3x6mm Scafolds,Test66,60110,Test Started
+7/9/2013,2:58:13 PM,3x6mm Scafolds,Test66,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,2:58:13 PM,3x6mm Scafolds,Test66,60120,Total Time,80.6
+7/9/2013,2:58:13 PM,3x6mm Scafolds,Test66,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,2:58:13 PM,3x6mm Scafolds,Test66,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,2:58:13 PM,3x6mm Scafolds,Test66,60112,Test Finished
+7/9/2013,2:59:35 PM,3x6mm Scafolds,Test67,60110,Test Started
+7/9/2013,3:00:59 PM,3x6mm Scafolds,Test67,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:00:59 PM,3x6mm Scafolds,Test67,60120,Total Time,80.8
+7/9/2013,3:00:59 PM,3x6mm Scafolds,Test67,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:00:59 PM,3x6mm Scafolds,Test67,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:00:59 PM,3x6mm Scafolds,Test67,60112,Test Finished
+7/9/2013,3:02:32 PM,3x6mm Scafolds,Test68,60110,Test Started
+7/9/2013,3:03:56 PM,3x6mm Scafolds,Test68,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:03:56 PM,3x6mm Scafolds,Test68,60120,Total Time,80.8
+7/9/2013,3:03:56 PM,3x6mm Scafolds,Test68,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:03:56 PM,3x6mm Scafolds,Test68,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:03:56 PM,3x6mm Scafolds,Test68,60112,Test Finished
+7/9/2013,3:05:20 PM,3x6mm Scafolds,Test69,60110,Test Started
+7/9/2013,3:06:45 PM,3x6mm Scafolds,Test69,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:06:45 PM,3x6mm Scafolds,Test69,60120,Total Time,80.8
+7/9/2013,3:06:45 PM,3x6mm Scafolds,Test69,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:06:45 PM,3x6mm Scafolds,Test69,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:06:45 PM,3x6mm Scafolds,Test69,60112,Test Finished
+7/9/2013,3:08:15 PM,3x6mm Scafolds,Test70,60110,Test Started
+7/9/2013,3:09:40 PM,3x6mm Scafolds,Test70,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:09:40 PM,3x6mm Scafolds,Test70,60120,Total Time,80.6
+7/9/2013,3:09:40 PM,3x6mm Scafolds,Test70,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:09:40 PM,3x6mm Scafolds,Test70,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:09:40 PM,3x6mm Scafolds,Test70,60112,Test Finished
+7/9/2013,3:11:35 PM,3x6mm Scafolds,Test71,60110,Test Started
+7/9/2013,3:13:00 PM,3x6mm Scafolds,Test71,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:13:00 PM,3x6mm Scafolds,Test71,60120,Total Time,80.8
+7/9/2013,3:13:00 PM,3x6mm Scafolds,Test71,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:13:00 PM,3x6mm Scafolds,Test71,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:13:00 PM,3x6mm Scafolds,Test71,60112,Test Finished
+7/9/2013,3:14:57 PM,3x6mm Scafolds,Test72,60110,Test Started
+7/9/2013,3:16:22 PM,3x6mm Scafolds,Test72,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:16:22 PM,3x6mm Scafolds,Test72,60120,Total Time,80.8
+7/9/2013,3:16:22 PM,3x6mm Scafolds,Test72,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:16:22 PM,3x6mm Scafolds,Test72,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:16:22 PM,3x6mm Scafolds,Test72,60112,Test Finished
+7/9/2013,3:17:35 PM,3x6mm Scafolds,Test73,60110,Test Started
+7/9/2013,3:18:59 PM,3x6mm Scafolds,Test73,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:18:59 PM,3x6mm Scafolds,Test73,60120,Total Time,80.6
+7/9/2013,3:18:59 PM,3x6mm Scafolds,Test73,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:18:59 PM,3x6mm Scafolds,Test73,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:18:59 PM,3x6mm Scafolds,Test73,60112,Test Finished
+7/9/2013,3:20:43 PM,3x6mm Scafolds,Test74,60110,Test Started
+7/9/2013,3:22:07 PM,3x6mm Scafolds,Test74,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:22:08 PM,3x6mm Scafolds,Test74,60120,Total Time,80.8
+7/9/2013,3:22:08 PM,3x6mm Scafolds,Test74,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:22:08 PM,3x6mm Scafolds,Test74,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:22:08 PM,3x6mm Scafolds,Test74,60112,Test Finished
+7/9/2013,3:23:27 PM,3x6mm Scafolds,Test75,60110,Test Started
+7/9/2013,3:24:51 PM,3x6mm Scafolds,Test75,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:24:51 PM,3x6mm Scafolds,Test75,60120,Total Time,80.8
+7/9/2013,3:24:51 PM,3x6mm Scafolds,Test75,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:24:51 PM,3x6mm Scafolds,Test75,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:24:51 PM,3x6mm Scafolds,Test75,60112,Test Finished
+7/9/2013,3:26:51 PM,3x6mm Scafolds,Test76,60110,Test Started
+7/9/2013,3:28:16 PM,3x6mm Scafolds,Test76,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:28:16 PM,3x6mm Scafolds,Test76,60120,Total Time,80.6
+7/9/2013,3:28:16 PM,3x6mm Scafolds,Test76,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:28:16 PM,3x6mm Scafolds,Test76,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:28:16 PM,3x6mm Scafolds,Test76,60112,Test Finished
+7/9/2013,3:29:44 PM,3x6mm Scafolds,Test77,60110,Test Started
+7/9/2013,3:31:09 PM,3x6mm Scafolds,Test77,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:31:09 PM,3x6mm Scafolds,Test77,60120,Total Time,80.6
+7/9/2013,3:31:09 PM,3x6mm Scafolds,Test77,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:31:09 PM,3x6mm Scafolds,Test77,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:31:09 PM,3x6mm Scafolds,Test77,60112,Test Finished
+7/9/2013,3:34:31 PM,3x6mm Scafolds,Test78,60110,Test Started
+7/9/2013,3:35:55 PM,3x6mm Scafolds,Test78,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:35:55 PM,3x6mm Scafolds,Test78,60120,Total Time,80.6
+7/9/2013,3:35:55 PM,3x6mm Scafolds,Test78,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:35:55 PM,3x6mm Scafolds,Test78,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:35:55 PM,3x6mm Scafolds,Test78,60112,Test Finished
+7/9/2013,3:37:30 PM,3x6mm Scafolds,Test79,60110,Test Started
+7/9/2013,3:38:54 PM,3x6mm Scafolds,Test79,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:38:54 PM,3x6mm Scafolds,Test79,60120,Total Time,80.6
+7/9/2013,3:38:54 PM,3x6mm Scafolds,Test79,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:38:54 PM,3x6mm Scafolds,Test79,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:38:54 PM,3x6mm Scafolds,Test79,60112,Test Finished
+7/9/2013,3:40:26 PM,3x6mm Scafolds,Test80,60110,Test Started
+7/9/2013,3:41:50 PM,3x6mm Scafolds,Test80,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,3:41:50 PM,3x6mm Scafolds,Test80,60120,Total Time,80.8
+7/9/2013,3:41:50 PM,3x6mm Scafolds,Test80,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,3:41:50 PM,3x6mm Scafolds,Test80,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,3:41:50 PM,3x6mm Scafolds,Test80,60112,Test Finished
+7/9/2013,4:01:51 PM,3x6mm Scafolds,Test81,60110,Test Started
+7/9/2013,4:02:35 PM,3x6mm Scafolds,Test81,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:02:35 PM,3x6mm Scafolds,Test81,60120,Total Time,40.6
+7/9/2013,4:02:35 PM,3x6mm Scafolds,Test81,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:02:35 PM,3x6mm Scafolds,Test81,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:02:35 PM,3x6mm Scafolds,Test81,60112,Test Finished
+7/9/2013,4:04:30 PM,3x6mm Scafolds,Test82,60110,Test Started
+7/9/2013,4:05:14 PM,3x6mm Scafolds,Test82,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:05:14 PM,3x6mm Scafolds,Test82,60120,Total Time,40.8
+7/9/2013,4:05:14 PM,3x6mm Scafolds,Test82,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:05:14 PM,3x6mm Scafolds,Test82,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:05:14 PM,3x6mm Scafolds,Test82,60112,Test Finished
+7/9/2013,4:07:00 PM,3x6mm Scafolds,Test83,60110,Test Started
+7/9/2013,4:07:44 PM,3x6mm Scafolds,Test83,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:07:44 PM,3x6mm Scafolds,Test83,60120,Total Time,40.6
+7/9/2013,4:07:44 PM,3x6mm Scafolds,Test83,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:07:44 PM,3x6mm Scafolds,Test83,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:07:44 PM,3x6mm Scafolds,Test83,60112,Test Finished
+7/9/2013,4:08:47 PM,3x6mm Scafolds,Test84,60110,Test Started
+7/9/2013,4:09:31 PM,3x6mm Scafolds,Test84,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:09:31 PM,3x6mm Scafolds,Test84,60120,Total Time,40.6
+7/9/2013,4:09:31 PM,3x6mm Scafolds,Test84,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:09:31 PM,3x6mm Scafolds,Test84,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:09:31 PM,3x6mm Scafolds,Test84,60112,Test Finished
+7/9/2013,4:11:20 PM,3x6mm Scafolds,Test85,60110,Test Started
+7/9/2013,4:12:05 PM,3x6mm Scafolds,Test85,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:12:05 PM,3x6mm Scafolds,Test85,60120,Total Time,40.8
+7/9/2013,4:12:05 PM,3x6mm Scafolds,Test85,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:12:05 PM,3x6mm Scafolds,Test85,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:12:05 PM,3x6mm Scafolds,Test85,60112,Test Finished
+7/9/2013,4:14:32 PM,3x6mm Scafolds,Test86,60110,Test Started
+7/9/2013,4:15:17 PM,3x6mm Scafolds,Test86,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:15:17 PM,3x6mm Scafolds,Test86,60120,Total Time,40.8
+7/9/2013,4:15:17 PM,3x6mm Scafolds,Test86,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:15:17 PM,3x6mm Scafolds,Test86,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:15:17 PM,3x6mm Scafolds,Test86,60112,Test Finished
+7/9/2013,4:17:03 PM,3x6mm Scafolds,Test87,60110,Test Started
+7/9/2013,4:17:48 PM,3x6mm Scafolds,Test87,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:17:48 PM,3x6mm Scafolds,Test87,60120,Total Time,40.6
+7/9/2013,4:17:48 PM,3x6mm Scafolds,Test87,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:17:48 PM,3x6mm Scafolds,Test87,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:17:48 PM,3x6mm Scafolds,Test87,60112,Test Finished
+7/9/2013,4:19:04 PM,3x6mm Scafolds,Test88,60110,Test Started
+7/9/2013,4:19:48 PM,3x6mm Scafolds,Test88,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:19:48 PM,3x6mm Scafolds,Test88,60120,Total Time,40.8
+7/9/2013,4:19:48 PM,3x6mm Scafolds,Test88,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:19:48 PM,3x6mm Scafolds,Test88,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:19:48 PM,3x6mm Scafolds,Test88,60112,Test Finished
+7/9/2013,4:20:54 PM,3x6mm Scafolds,Test89,60110,Test Started
+7/9/2013,4:21:38 PM,3x6mm Scafolds,Test89,60202,Test Status,Test Ended by Linear Waveform
+7/9/2013,4:21:38 PM,3x6mm Scafolds,Test89,60120,Total Time,40.8
+7/9/2013,4:21:38 PM,3x6mm Scafolds,Test89,60121,Total Cycle Count(Linear Waveform),0
+7/9/2013,4:21:38 PM,3x6mm Scafolds,Test89,60121,Total Cycle Count(Rotary Waveform),0
+7/9/2013,4:21:38 PM,3x6mm Scafolds,Test89,60112,Test Finished
