@@ -12,16 +12,23 @@ def user_input():
     
     file_name =  raw_input ("Enter the complete file name (xlsx): ")
     ws_name = raw_input ("Enter the worksheet name: ")
-    input_range = raw_input("Enter your range (e.g. A1:A6): ")
+    input_xrange = raw_input("Enter your x range (e.g. A1:A6): ")
+    input_yrange = raw_input("Enter your y range (e.g. B1:B6): ")
     print "Please wait."
 
-#def file_import():
     wb = openpyxl.reader.excel.load_workbook(file_name)
     s = wb.get_sheet_by_name(name= ws_name)
-    c = s.range(input_range) 
-    values=[]
+    c = s.range(input_xrange) 
+    d = s.range(input_yrange)
+    xvalues=[]
+    yvalues=[]
+    
     for row in c:
         for cell in row:
-            values.append(cell.value)
-    return values
-    #pprint(values)
+            xvalues.append(cell.value)
+
+    for row in d:
+        for cell in row:
+            yvalues.append(cell.value)
+            
+    return xvalues, yvalues
