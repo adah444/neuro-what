@@ -13,7 +13,7 @@ from scipy import stats
 
 import math
 
-values = user_input()
+values = user_input() #prompts the user for the file name and ranges over which to analyze
 xvalues = values[0] 
 yvalues = values[1]
 
@@ -26,36 +26,35 @@ else:
     peak_load = min(yvalues)
     index_anchor = yvalues.index(peak_load)
      
-line_num = 0
-all_lines = []
+line_num = 0 #keeps track of how many linear regressions have a sufficient rsq value
+all_lines = [] #initializes the array that will contain all the linear regressions
 
 desired_rsqval = 0.998 #input your desired r value
 least_numpts = 4 #input the desired least number of points required in a linear regression
 
 length = 6.0 #input the scaffold length
 pi = math.pi
-#outer_diam = 3.0 #input the outer diameter of the scaffold
-#inner_diam = 2.5 #input the inner diameter of the scaffold
-#area = pi * ((outer_diam/2/1000)**2 - (inner_diam/2/1000)**2) #if there is an inner and outer diameter
-diam = 3.8 #input the diameter if there is no inner/outer diameter
-area = pi * (diam/2/1000)**2 #if there is only one diameter
+outer_diam = 3.0 #input the outer diameter of the scaffold
+inner_diam = 2.5 #input the inner diameter of the scaffold
+area = pi * ((outer_diam/2/1000)**2 - (inner_diam/2/1000)**2) #if there is an inner and outer diameter
+#diam = 3.8 #input the diameter if there is no inner/outer diameter
+#area = pi * (diam/2/1000)**2 #if there is only one diameter
 
 for iterate in range(0, len(xvalues)):
     if index_anchor > least_numpts - 1:
-
         stop = 0
-        for next_anchor in range(index_anchor, -1, -1):
+        for next_anchor in range(index_anchor, -1, -1): #checks each anchor to see if the values are sufficient for the rsq value in the linear regression
             count = 0
             if stop == 1:
                 break
             
-            if next_anchor == index_anchor:
-                r_value1 = 0
+            if next_anchor == index_anchor: #initializes r_value so that the one can break out of the oop when the desire rsq value is achieved
+                r_value = 0
                 
-            if r_value1**2 >= desired_rsqval:
+            if r_value**2 >= desired_rsqval: #break out of the oop when the desired rsq value is achieved
                 break
         
-            if next_anchor < least_numpts and iterate == len(xvalues):
+            if next_anchor < least_numpts and iterate == len(xvalues): #lets the user know that the loop has terminated and all the possibe regression lines have been found
                 print 'Found all possible lines with the given r value'
                 break
             
