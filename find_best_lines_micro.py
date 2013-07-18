@@ -8,7 +8,7 @@ Created on Mon Jul  8 12:55:18 2013
 from import_data import user_input
 
 from numpy import arange
-from pylab import plot, show, ylim, xlim
+from pylab import plot, show, ylim, xlim, xlabel, ylabel, grid
 from scipy import stats
 
 import math
@@ -40,6 +40,10 @@ area = pi * ((outer_diam/2/1000)**2 - (inner_diam/2/1000)**2) #if there is an in
 #diam = 3.8 #input the diameter if there is no inner/outer diameter
 #area = pi * (diam/2/1000)**2 #if there is only one diameter
 
+print '\nTo define: '
+print '\nrsq value is the coefficient of determination. It indicates how well the data fits to the linear regressions. The closer the rsq value is to 1, the better the linear fit is.'
+print '\np-value is the probability of obtaining a result that is more extreme. The closer the p-value is to zero, the better the linear fit is.'
+print '\nstandard error is the estimate of sampling errors affecting the linear regression. Larger standard errors indicate lower significance of the linear regression.' 
 for iterate in range(0, len(xvalues)):
     if index_anchor > least_numpts - 1:
         stop = 0
@@ -100,11 +104,14 @@ for iterate in range(0, len(xvalues)):
                             print '\n Line 1 (closest to the peak): '
                         else:
                             print '\n Line %s: ' %(line_num)
-                        print 'rsq value: ', rsq_value
+                        print 'y = %s * x + %s' %(str(slope), str(intercept))                        
+                        print 'rsq value: ', rsq_value     
+                        print 'p-value: ', p_value
+                        print 'standard error: ', std_err
                         print 'slope: %s (N/mm), or %s (N/m)' %(str(slope), str(slope*0.001))
                         print 'intercept: ', intercept
-                        print 'y = %s * x + %s' %(str(slope), str(intercept))
                         print "Young's Modulus: %s" %(slope*length/area/10**6)
+                        print "Peak value at: %s Newtons, %s mm" %(peak_load, xvalues[index_anchor])
                         print 'Anchor index: ', next_anchor
                         print 'Number of points included: ', len(group_pos)
                         line = slope * xi + intercept #regression line
@@ -124,7 +131,7 @@ for iterate in range(0, len(xvalues)):
                             print "Please rerun the program with a lower r value"
         index_anchor = next_anchor + 1 -len(group_pos)
  
-print 'Found all possible lines with the given rsq value'
+print '\nFound all possible lines with the given rsq value.'
 
 xi_all = arange(0, len(xvalues), 1)
 plot(xvalues, yvalues, 'o') #plots all the points in the given ranges
@@ -133,4 +140,7 @@ for thing in range(0, line_num * 2, 2):
     plot(all_lines[thing], all_lines[thing+1], 'r-') #plots all the linear regressions
 ylim ([min(yvalues), max(yvalues)]) #sets the y range of graph
 xlim ([min(xvalues), max(xvalues)]) #sets the x range of graph
+xlabel("Millimeters")
+ylabel("Newtons")
+grid(True)
 show()
